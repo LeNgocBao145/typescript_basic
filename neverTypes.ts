@@ -13,6 +13,7 @@ function handleOrderStatus(status: OrderStatus) {
     // If a new status is added to OrderStatus but not handled here,
     // TypeScript will raise an error
     // because 'status' can be of that new type, which is not covered
+    
     // const check: never = status;
   }
 }
