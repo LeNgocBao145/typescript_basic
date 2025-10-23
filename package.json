@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node ./function.ts"
+    "dev": "ts-node ./unionTypes.ts"
   },
   "repository": {
     "type": "git",
