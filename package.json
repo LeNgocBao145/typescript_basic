@@ -1,0 +1,25 @@
+{
+  "name": "typescript_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./array.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeNgocBao145/typescript_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LeNgocBao145/typescript_basic/issues"
+  },
+  "homepage": "https://github.com/LeNgocBao145/typescript_basic#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
